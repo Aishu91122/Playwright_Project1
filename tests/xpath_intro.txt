@@ -1,0 +1,26 @@
+What is Xpath?
+
+It is one the locator is used to identify the web elemnts.
+
+
+Types of xpath:
+
+Relative xpath:
+
+sy: //tagname[]
+
+1) Single attribute
+
+//tagname[@attribute='value']
+
+2) Multiple attribute
+
+3) Text() function
+
+4) Contains() function --> attribute, text()
+
+5) Starts-with() function --> attribute, text()
+
+6) Normalize-space()
+
+Absolute xpath:
