@@ -5,4 +5,4 @@ test("Launch Chrome Browser", async ()=>{
  const page = await browser.newPage();
  await page.goto("https://opensource-demo.orangehrmlive.com/web/index.php/auth/login");
  
-})
+});
