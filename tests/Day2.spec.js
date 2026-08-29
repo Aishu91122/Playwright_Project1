@@ -10,7 +10,7 @@ await page.goto("https://www.facebook.com/login/");
 await page.waitforTimeout(3000);
 
 });
-test("Amazon test",async ()=>{
-    await page.goto("Aishwarya URL")
-    console.log(Aishwarya);
+// test code
+test("Amazon test case",async ()=>{
+    await page.goto("")
 })
