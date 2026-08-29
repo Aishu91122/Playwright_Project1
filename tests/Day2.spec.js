@@ -11,5 +11,5 @@ await page.waitforTimeout(3000);
 
 });
 test("Amazon test",async ()=>{
-    await page.goto("")
+    await page.goto("www.google.com")
 })
